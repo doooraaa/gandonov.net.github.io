@@ -1,2 +1,2 @@
-# gandonov.net.github.io
+# gandonov.github.io
 Сайт 2
